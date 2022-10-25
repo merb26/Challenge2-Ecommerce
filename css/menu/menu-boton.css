@@ -1,0 +1,11 @@
+.menu__boton {
+  background-color: transparent;
+  padding: 1rem 4.375rem;
+  border: 1px solid;
+  border-color: var(--color-azul);
+  color: var(--color-azul);
+  font-family: "Raleway", sans-serif;
+  font-size: 1rem;
+  line-height: 1.1875rem;
+  margin: 2rem 0;
+}
