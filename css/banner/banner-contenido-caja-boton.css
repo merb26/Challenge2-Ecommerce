@@ -1,0 +1,11 @@
+.banner__contenido__caja__boton {
+  background-color: var(--color-azul);
+  padding: 1rem;
+  border: 1px solid;
+  border-color: var(--color-azul);
+  color: #ffffff;
+  font-family: "Raleway", sans-serif;
+  font-size: 1rem;
+  line-height: 1.1875rem;
+  font-weight: 400;
+}

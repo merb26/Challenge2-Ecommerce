@@ -1,0 +1,6 @@
+@import url("../variables.css");
+
+.banner__contenido {
+  margin: 0 var(--espacio-laterales);
+  height: 100%;
+}
