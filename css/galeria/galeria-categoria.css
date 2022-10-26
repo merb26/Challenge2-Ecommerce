@@ -1,0 +1,9 @@
+.galeria__categoria {
+  margin: 0 var(--espacio-laterales);
+  margin-bottom: 4rem;
+  height: 306px;
+}
+
+.galeria__categoria:last-child {
+  margin-bottom: 0;
+}

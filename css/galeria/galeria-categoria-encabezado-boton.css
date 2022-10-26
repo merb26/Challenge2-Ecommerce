@@ -1,0 +1,9 @@
+.galeria__categoria__encabezado__boton {
+  font-family: "Raleway";
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 1.1875rem;
+  color: var(--color-azul);
+  background-color: transparent;
+  border: none;
+}
