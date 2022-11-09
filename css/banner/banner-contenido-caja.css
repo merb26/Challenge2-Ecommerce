@@ -1,4 +1,7 @@
-.banner__ccontenido__caja {
+.banner__contenido__caja {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
   width: 751px;
-  height: 138px;
+  height: 100%;
 }

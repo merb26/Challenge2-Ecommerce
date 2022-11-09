@@ -8,4 +8,10 @@
   font-size: 1rem;
   line-height: 1.1875rem;
   font-weight: 400;
+  margin-bottom: 2rem;
+  width: 131px;
+}
+
+.banner__contenido__caja__boton:hover {
+  cursor: pointer;
 }
