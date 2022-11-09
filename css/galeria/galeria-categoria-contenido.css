@@ -1,0 +1,4 @@
+.galeria__categoria__contenido {
+  display: flex;
+  justify-content: space-between;
+}

@@ -7,3 +7,7 @@
   background-color: transparent;
   border: none;
 }
+
+.galeria__categoria__encabezado__boton:hover {
+  cursor: pointer;
+}

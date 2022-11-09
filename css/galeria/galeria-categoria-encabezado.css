@@ -1,0 +1,14 @@
+.galeria__categoria__encabezado {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.galeria__categoria__encabezado a {
+  text-decoration: none;
+}
+
+.galeria__categoria__encabezado a::hover {
+  cursor: pointer;
+}
