@@ -8,8 +8,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Alura Geek</title>
     <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/menu/menu.css">
     <link rel="stylesheet" href="./css/menu/menu-boton.css">
     <link rel="stylesheet" href="./css/menu/menu-buscar.css">
+    <link rel="stylesheet" href="./css/menu/menu-buscar-input.css">
     <link rel="stylesheet" href="./css/banner/banner.css">
     <link rel="stylesheet" href="./css/banner/banner-contenido.css">
     <link rel="stylesheet" href="./css/banner/banner-contenido-caja.css">
@@ -36,7 +38,9 @@
     <header>
         <div class="menu">
             <img src="./img/logo.png" alt="Logotipo de la empresa">
-            <input type="text" class="menu__buscar" placeholder="¿Qué deseas buscar?">
+            <div class="menu__buscar">
+                <input type="text" class="menu__buscar__input" placeholder="¿Qué deseas buscar?">
+            </div>
             <a href="#"><button class="menu__boton">Login</button></a>
         </div>
     </header>

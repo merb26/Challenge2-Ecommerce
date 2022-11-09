@@ -10,3 +10,9 @@
   font-weight: 400;
   margin: 2rem 0;
 }
+
+.menu__boton:hover {
+  cursor: pointer;
+  background-color: var(--color-azul);
+  color: #ffffff;
+}
