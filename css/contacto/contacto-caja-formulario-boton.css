@@ -1,0 +1,7 @@
+.contacto__caja__formulario__boton {
+  background-color: var(--color-azul);
+  color: #ffffff;
+  margin: 0;
+  width: 146px;
+  padding: 1rem;
+}
