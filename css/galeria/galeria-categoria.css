@@ -7,3 +7,14 @@
 .galeria__categoria:last-child {
   margin-bottom: 0;
 }
+
+@media screen and (max-width: 768px) {
+  .galeria__categoria {
+    margin: 0 var(--espacio-laterales-tableta);
+    margin-top: 3rem;
+  }
+
+  .galeria__categoria:nth-child(1) {
+    margin-top: 0;
+  }
+}
