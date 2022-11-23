@@ -2,3 +2,10 @@
   background: url("../../img/banner-image.png") no-repeat center / cover;
   height: 352px;
 }
+
+@media screen and (max-width: 768px) {
+  .banner {
+    background: url("../../img/banner-image-tableta.png") no-repeat center /
+      cover;
+  }
+}

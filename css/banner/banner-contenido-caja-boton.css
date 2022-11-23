@@ -15,3 +15,9 @@
 .banner__contenido__caja__boton:hover {
   cursor: pointer;
 }
+
+@media screen and (max-width: 768px) {
+  .banner__contenido__caja__boton {
+    padding: 0.75rem 1rem;
+  }
+}

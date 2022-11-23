@@ -4,3 +4,9 @@
   margin: 0 var(--espacio-laterales);
   height: 100%;
 }
+
+@media screen and (max-width: 768px) {
+  .banner__contenido {
+    margin: 0 var(--espacio-laterales-tableta);
+  }
+}
