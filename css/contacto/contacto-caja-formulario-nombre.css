@@ -17,3 +17,9 @@
   line-height: 1.25rem;
   color: #a2a2a2;
 }
+
+@media screen and (max-width: 768px) {
+  .contacto__caja__formulario__nombre {
+    width: 434px;
+  }
+}

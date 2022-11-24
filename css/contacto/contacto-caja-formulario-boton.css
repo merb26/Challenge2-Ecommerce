@@ -5,3 +5,9 @@
   width: 146px;
   padding: 1rem;
 }
+
+@media screen and (max-width: 768px) {
+  .contacto__caja__formulario__boton {
+    padding: 0.75rem 1rem;
+  }
+}

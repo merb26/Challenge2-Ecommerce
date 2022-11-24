@@ -1,5 +1,10 @@
 .contacto__caja__formulario form {
   display: flex;
   flex-direction: column;
-  /* background-color: blueviolet; */
+}
+
+@media screen and (max-width: 768px) {
+  .contacto__caja__formulario {
+    grid-area: formulario;
+  }
 }

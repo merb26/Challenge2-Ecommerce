@@ -4,3 +4,13 @@
   align-items: flex-start;
   justify-content: space-between;
 }
+
+@media screen and (max-width: 768px) {
+  .contacto__caja {
+    margin: 0 var(--espacio-laterales-tableta);
+    display: grid;
+    grid-template-areas:
+      "logo formulario"
+      "menu formulario";
+  }
+}

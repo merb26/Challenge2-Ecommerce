@@ -3,3 +3,9 @@
   background-color: #eaf2fd;
   padding: 4rem 0;
 }
+
+@media screen and (max-width: 768px) {
+  .contacto {
+    padding: 2rem 0;
+  }
+}

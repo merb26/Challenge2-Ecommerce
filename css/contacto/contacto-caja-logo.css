@@ -1,0 +1,6 @@
+@media screen and (max-width: 768px) {
+  .contacto__caja__logo {
+    grid-area: logo;
+    margin-bottom: 1.5rem;
+  }
+}
